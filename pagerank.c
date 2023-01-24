@@ -1,6 +1,6 @@
 // COMP2521 Assignment 2
 
-// Written by: Mitchell Heaney (z5363758)
+// Written by: Mitchell Heaney
 // Date: 10/11/2021 - 19/11/2021
 
 
