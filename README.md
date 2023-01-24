@@ -1,1 +1,1 @@
-# Weighted-Pagerank
+# WeightedPagerank
